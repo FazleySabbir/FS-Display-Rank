@@ -2,15 +2,15 @@
         
 /*              
         Plugin Name: FS Display Rank
-        Plugin URI: 
-        Plugin Description: This plugin will show the privilege rank everywhere and the 'Asker' in question's comment and answer whether he is the asker of the question or not.
+        Plugin URI: https://github.com/FazleySabbir/FS-Display-Rank
+        Plugin Description: This plugin will show the level name everywhere and the 'Asker' in question's comment and answer after the name whether he is the asker of the question or not.
         Plugin Version: 1.0
-        Plugin Date: 2020-10-12
+        Plugin Date: 2020-10-13
         Plugin Author: Fazley Sabbir
         Plugin Author URI: https://github.com/FazleySabbir         
         Plugin License: GPLv2                           
         Plugin Minimum Question2Answer Version: 1.5
-        Plugin Update Check URI: 
+        Plugin Update Check URI: https://raw.githubusercontent.com/FazleySabbir/FS-Display-Rank/main/qa-plugin.php
 */                      
                         
                         
